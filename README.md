@@ -1,29 +1,3 @@
-Gemini
-Análisis Tarifas Megaline y Comportamiento Usuario
-Nuevo chat
-Mis cosas
-Gems
-
-Asistente de programación
-Chats
-Análisis Tarifas Megaline y Comportamiento Usuario
-Análisis de Ingresos Megaline: Surf vs. Ultimate
-README.md Edición Profesional y Moderna
-Revisión Proyecto Videojuegos: Conclusiones y Mejoras
-Análisis de Ingresos Megaline: Tarifas Prepago
-Análisis de Ingresos Megaline: Tarifas Prepago
-Perfil Profesional y Transición a Ciencia de Datos
-Chicago Taxi Data Analysis Project
-Chicago Taxi Data Analysis
-Creating Pandas DataFrames: Common Methods
-Analyzing Taxi Trip Data
-Python HTML Reading and Scraping
-Saludo Nocturno y Ofrecimiento de Ayuda
-Database Table Schema Design: Products
-Database Schema For Product Inventory
-
-Configuración y ayuda
-Conversación con Gemini
 Basado en el análisis de datos realizado en el proyecto de Megaline, aquí tienes un resumen de las tarifas Surf y Ultimate y el comportamiento de los usuarios:
 
 1. Comparativa de Condiciones de las Tarifas
