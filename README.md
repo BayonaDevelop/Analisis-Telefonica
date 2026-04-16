@@ -100,5 +100,3 @@ Para determinar si existen diferencias significativas en los ingresos generados 
     </li>
     <li><p>Tambien se puede segmentar por uso, quien prefiere usar mensajes, quien internet o quien prefire hacer llamadas.</p></li>
 </ol>
-resumen_proyecto_megaline.md
-Mostrando resumen_proyecto_megaline.md.
